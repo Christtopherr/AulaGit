@@ -3,7 +3,7 @@
 public class Principal {
 
 	public static void main (String[] args){
-		String msg = "Ola MUndo!";
+		String msg = "Hellou";
 		System.out.println(msg);
 	}
 }
