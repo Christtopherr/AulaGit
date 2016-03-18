@@ -3,8 +3,8 @@
 public class Principal {
 
 	public static void main (String[] args){
-		String msg = "Hellou";
-		System.out.println(msg);
+		String msgg = "Hellou";
+		System.out.println(msgg);
 	}
 }
 
